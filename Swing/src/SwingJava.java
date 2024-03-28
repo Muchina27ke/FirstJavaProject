@@ -32,10 +32,7 @@ public class SwingJava {
 
     private static void placeComponents(JPanel panel) {
 
-        /* We will discuss about layouts in the later sections
-         * of this tutorial. For now we are setting the layout 
-         * to null
-         */
+       
         panel.setLayout(null);
 
         // Creating JLabel
