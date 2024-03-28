@@ -1,7 +1,4 @@
-/**
- * @author: BeginnersBook.com
- * @description: Program to Calculate Area of rectangle
- */
+
 import java.util.Scanner;
 class RectangleArea {
    public static void main (String[] args)
